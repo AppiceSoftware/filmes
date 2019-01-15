@@ -1,6 +1,6 @@
 DINAMICA SCRUM GIT
 
- basjdnaskdjasdansdjaknsd
+ basjdnaskdjasdansdjaknsdkjbkjhvjhvj
 
 - Projeto Ionic: App q exiba informaÃ§Ãµes (estÃ¡ticas) de filmes. Tenha no minimo 3 telas, seja vermelho, tenha um botÃ£o de ver trailer e um icone na toolbar de informaÃ§Ã£o, alem de uma tela de formulario para mandar duvida.
 
