@@ -1,0 +1,49 @@
+DINAMICA SCRUM GIT
+
+- Projeto Ionic: App q exiba informaÃ§Ãµes (estÃ¡ticas) de filmes. Tenha no minimo 3 telas, seja vermelho, tenha um botÃ£o de ver trailer e um icone na toolbar de informaÃ§Ã£o, alem de uma tela de formulario para mandar duvida.
+
+https://github.com/AppiceSoftware/filmes
+
+1 Sprint: Criar telas, Provider de dados com array fixo e listagem HTML na tela 
+2 Sprint: BotÃ£o, cor, Ã­cone na toolbar com um dialog quando clica no Ã­cone 
+3 Sprint: Formulario (inputs, botÃ£o e funÃ§ao q troca de tela ao enviar formulario, checkbox)
+
+- Projeto Ionic 2: App q exiba as informaÃ§Ãµes de obras, com imagem e listagem das obras, assim como quando clicar nas obras vÃ¡ para uma tela de detalhe passando um info (put extra), seja azul e tenha no minimo 3 telas.
+
+https://github.com/AppiceSoftware/obras
+
+1 Sprint: Criar telas, Provider de dados com array fixo e listagem HTML na tela 
+2 Sprint: Imagens, troca de tela para detalhe e cor
+3 Sprint: Formulario (inputs, botÃ£o e funÃ§ao q troca de tela ao enviar formulario, toogle de ativaÃ§Ã£o)
+
+SORTEIO
+
+GIT:
+EMAIL: appicesoftware@gmail.com
+SENHA: naosejaburro!1
+
+Obrigatorio cada membro dar PUSH (upar) no repositÃ³rio pelo menos uma vez, senÃ£o encontrem soluÃ§Ã£o.
+
+3 Sprints de 25 minutos - Prioridade, dificuldade com 2 dailys de atÃ© 2 minutos em cada Sprint.
+
+As dailys ocorrerÃ£o aos 10 minutos e aos 20 minutos.
+
+Ao termino da Sprint: Testes e validaÃ§Ã£o. (10 minutos)
+
+PO e SM acompanham o processo.
+
+AO fim do processo retrospectiva. (10 minutos)
+
+------LINKS------
+
+Curso GIT
+https://github.com/Matheus-Santos-Araujo/curso-git-appice/tree/master/cursoGitAppice
+
+Exemplo de listagem estÃ¡tica e dialog
+https://github.com/Matheus-Santos-Araujo/nucleolinguastreino
+
+Exemplo de formulÃ¡rio
+https://github.com/Matheus-Santos-Araujo/Filter
+
+Exemplo de imagem
+<img src="assets/imgs/suaimagem.jpg" style="height: 100px; widht: 90px;">	
